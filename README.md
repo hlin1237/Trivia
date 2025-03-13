@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Quiz Quest*
 
-Submitted by: **Your Name Here**
+Submitted by: **Huimin Lin**
 
 **Quiz Quest** is an app that is an app that allows users to test their knowledge across various trivia categories. The game presents multiple-choice questions, tracks the user’s progress, and provides instant feedback on correct and incorrect answers. Users can complete the quiz and view their final score before restarting the game.
 
